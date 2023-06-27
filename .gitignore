@@ -1,7 +1,0 @@
-out/
-tmp/
-Blinky.cbuild-idx.yml
-*.cbuild.yml
-*.cprj
-.clangd
-RTE_Components.h
